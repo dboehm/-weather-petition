@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/pwa": "^3.0.0-0",
     "eventbus": "0.0.3",
-    "nuxt": "^2.11.0",
+    "nuxt": "^2.15.8",
     "vuex": "^3.1.2"
   },
   "devDependencies": {
